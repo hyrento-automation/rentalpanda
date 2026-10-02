@@ -76,3 +76,5 @@
   .hero-arrival-card small{font-size:7px;margin-top:2px}
   .arrival-check{width:17px;height:17px;font-size:10px}
 }
+.product-page-image .detail-image-rate{left:76%;top:72%;width:142px;height:142px}
+@media(max-width:700px){.product-page-image .detail-image-rate{left:74%;top:74%;width:90px;height:90px}}
