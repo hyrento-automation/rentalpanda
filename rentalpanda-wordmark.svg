@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 74" role="img" aria-labelledby="title desc">
+  <title id="title">RentalPanda</title>
+  <desc id="desc">RentalPanda baby, beach and holiday gear</desc>
+  <g transform="translate(2 3)">
+    <circle cx="34" cy="34" r="32" fill="#dfe9c5"/>
+    <circle cx="17" cy="16" r="10" fill="#234136"/>
+    <circle cx="51" cy="16" r="10" fill="#234136"/>
+    <path d="M10 34c0-14 10-24 24-24s24 10 24 24-10 24-24 24S10 48 10 34Z" fill="#fffdf6"/>
+    <ellipse cx="23" cy="33" rx="7" ry="10" transform="rotate(28 23 33)" fill="#234136"/>
+    <ellipse cx="45" cy="33" rx="7" ry="10" transform="rotate(-28 45 33)" fill="#234136"/>
+    <circle cx="24" cy="33" r="2.2" fill="#fffdf6"/>
+    <circle cx="44" cy="33" r="2.2" fill="#fffdf6"/>
+    <path d="m34 39-3.8 3.5a3.8 3.8 0 0 0 7.6 0L34 39Z" fill="#234136"/>
+    <path d="M34 45c-2.2 3.1-5 3.4-7 1.4M34 45c2.2 3.1 5 3.4 7 1.4" fill="none" stroke="#234136" stroke-width="1.7" stroke-linecap="round"/>
+    <circle cx="56" cy="55" r="5" fill="#b7d94b" stroke="#fffdf6" stroke-width="2"/>
+  </g>
+  <text x="78" y="39" fill="#234136" font-family="Manrope, DM Sans, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-1.7">rentalpanda</text>
+  <text x="80" y="58" fill="#75846e" font-family="DM Sans, Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="2.2">BABY  •  BEACH  •  HOLIDAY GEAR</text>
+</svg>
